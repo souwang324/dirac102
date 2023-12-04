@@ -1,0 +1,18 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  transform_byteio.cpp
+  subband_byteio.cpp
+  picture_byteio.cpp
+  parseunit_byteio.cpp
+  parseparams_byteio.cpp
+  mvdata_byteio.cpp
+  mvdataelement_byteio.cpp
+  endofsequence_byteio.cpp
+  displayparams_byteio.cpp
+  dirac_byte_stream.cpp
+  dirac_byte_stats.cpp
+  component_byteio.cpp
+  codingparams_byteio.cpp
+  byteio.cpp
+  accessunit_byteio.cpp
+  코드를 생성하고 있습니다...
+  libdirac_byteio.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\libdirac_byteio\../build/libdirac_byteio/debug\libdirac_byteio.lib

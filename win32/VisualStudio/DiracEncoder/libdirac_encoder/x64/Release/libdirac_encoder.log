@@ -1,0 +1,28 @@
+﻿  comp_compress.cpp
+  enc_picture.cpp
+  enc_queue.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(174): warning C4267: '초기화 중': 'size_t'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=unsigned int
+          ]
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_encoder\enc_queue.cpp(194): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<unsigned int,unsigned int>::pair<int,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Other1=int,
+              _Other2=unsigned __int64
+          ]
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_encoder\enc_queue.cpp(194): note: 컴파일 중인 함수 템플릿 인스턴스화 'std::pair<unsigned int,unsigned int>::pair<int,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Other1=int,
+              _Other2=unsigned __int64
+          ]
+  picture_compress.cpp
+  prefilter.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_encoder\prefilter.cpp(144): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  quality_monitor.cpp
+  quant_chooser.cpp
+  rate_control.cpp
+  seq_compress.cpp
+  libdirac_encoder.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\x64\Release\libdirac_encoder.lib

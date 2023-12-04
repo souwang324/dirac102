@@ -1,0 +1,52 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  wavelet_utils_mmx.cpp
+  wavelet_utils.cpp
+  video_format_defaults.cpp
+  upconvert_mmx.cpp
+  upconvert.cpp
+  pic_io.cpp
+  picture_buffer.cpp
+  picture.cpp
+  mv_codec.cpp
+  mot_comp_mmx.cpp
+  mot_comp.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\mot_comp.cpp(1070): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\mot_comp.cpp(1122): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+  motion.cpp
+  dirac_exception.cpp
+  dirac_assertions.cpp
+  common.cpp
+  cmd_line.cpp
+  band_vlc.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(341): warning C4805: '|=': 연산에 'dirac::CoeffType' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(331): note: 클래스 템플릿 멤버 함수 'void dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeVal(dirac::CoeffArray &,const int,const int)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(308): note: 컴파일 중인 함수 템플릿 인스턴스화 'void dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeVal(dirac::CoeffArray &,const int,const int)'에 대한 참조를 확인하십시오.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(13): note: 클래스 템플릿 멤버 함수 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::GenericBandCodec(dirac::SubbandByteIO *,size_t,const dirac::SubbandList &,int,const bool)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(184): note: 컴파일 중인 함수 템플릿 인스턴스화 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::GenericBandCodec(dirac::SubbandByteIO *,size_t,const dirac::SubbandList &,int,const bool)'에 대한 참조를 확인하십시오.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(172): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>'에 대한 참조를 확인하세요.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(207): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dirac::GenericIntraDCBandCodec<dirac::ArithCodec<dirac::CoeffArray>>'에 대한 참조를 확인하세요.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(463): warning C4805: '|=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(457): note: 클래스 템플릿 멤버 함수 'int dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeQuantIndexOffset(void)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(246): note: 컴파일 중인 함수 템플릿 인스턴스화 'int dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeQuantIndexOffset(void)'에 대한 참조를 확인하십시오.
+  band_codec.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(341): warning C4805: '|=': 연산에 'dirac::CoeffType' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(331): note: 클래스 템플릿 멤버 함수 'void dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeVal(dirac::CoeffArray &,const int,const int)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.cpp(117): note: 컴파일 중인 함수 템플릿 인스턴스화 'void dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeVal(dirac::CoeffArray &,const int,const int)'에 대한 참조를 확인하십시오.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(172): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>'에 대한 참조를 확인하세요.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(207): note: 컴파일 중인 클래스 템플릿 인스턴스화 'dirac::GenericIntraDCBandCodec<dirac::ArithCodec<dirac::CoeffArray>>'에 대한 참조를 확인하세요.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(463): warning C4805: '|=': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(457): note: 클래스 템플릿 멤버 함수 'int dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeQuantIndexOffset(void)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(246): note: 컴파일 중인 함수 템플릿 인스턴스화 'int dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::DecodeQuantIndexOffset(void)'에 대한 참조를 확인하십시오.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec_template.h(13): note: 클래스 템플릿 멤버 함수 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::GenericBandCodec(dirac::SubbandByteIO *,size_t,const dirac::SubbandList &,int,const bool)'을(를) 컴파일하고 있습니다.
+  d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_common\band_codec.h(184): note: 컴파일 중인 함수 템플릿 인스턴스화 'dirac::GenericBandCodec<dirac::ArithCodec<dirac::CoeffArray>>::GenericBandCodec(dirac::SubbandByteIO *,size_t,const dirac::SubbandList &,int,const bool)'에 대한 참조를 확인하십시오.
+  arith_codec.cpp
+  코드를 생성하고 있습니다...
+  libdirac_common.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\libdirac_common\../build/libdirac_common/Debug\libdirac_common.lib

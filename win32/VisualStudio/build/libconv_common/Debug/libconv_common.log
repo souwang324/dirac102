@@ -1,0 +1,5 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  setstdiomode.cpp
+  bitmap.cpp
+  코드를 생성하고 있습니다...
+  libconv_common.vcxproj -> F:\SSD\07_Projects\23_DIRAC\dirac102\dirac102_20151002\win32\VisualStudio\ConversionUtils\libconv_common\../../build/libconv_common/Debug\libconv_common.lib

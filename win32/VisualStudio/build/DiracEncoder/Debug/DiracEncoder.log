@@ -1,0 +1,141 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  dirac_encoder.cpp
+dirac_encoder.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+     ../build/bin/Debug\DiracEncoder.lib 라이브러리 및 ../build/bin/Debug\DiracEncoder.exp 개체를 생성하고 있습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(transform_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(subband_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdataelement_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stats.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xran(void)" (?_Xran@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(transform_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(subband_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdataelement_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stats.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: static void __cdecl std::_String_base::_Xlen(void)" (?_Xlen@_String_base@std@@SAXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2019: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호(참조 위치: "public: virtual char const * __thiscall std::runtime_error::what(void)const " (?what@runtime_error@std@@UBEPBDXZ) 함수)에서 확인하지 못했습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(transform_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(subband_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(endofsequence_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdataelement_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stats.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(transform_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(subband_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdataelement_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(endofsequence_byteio.obj) : error LNK2001: "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2019: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호(참조 위치: "public: char * __cdecl std::_DebugHeapAllocator<char>::allocate(unsigned int,void const *)" (?allocate@?$_DebugHeapAllocator@D@std@@QAAPADIPBX@Z) 함수)에서 확인하지 못했습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(transform_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(subband_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdataelement_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(endofsequence_byteio.obj) : error LNK2001: "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(component_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "long const std::_BADOFF" (?_BADOFF@std@@3JB) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Lock(void)" (?_Lock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(mvdata_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(dirac_byte_stream.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(accessunit_byteio.obj) : error LNK2001: "public: void __thiscall std::_Mutex::_Unlock(void)" (?_Unlock@_Mutex@std@@QAEXXZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::~_Mutex(void)" (??1_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::~_Mutex(void)" (??1_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::~_Mutex(void)" (??1_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::~_Mutex(void)" (??1_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::~_Mutex(void)" (??1_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::_Mutex(void)" (??0_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::_Mutex(void)" (??0_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::_Mutex(void)" (??0_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::_Mutex(void)" (??0_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: __thiscall std::_Mutex::_Mutex(void)" (??0_Mutex@std@@QAE@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (?_Init@locale@std@@CAPAV_Locimp@12@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (?_Init@locale@std@@CAPAV_Locimp@12@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (?_Init@locale@std@@CAPAV_Locimp@12@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (?_Init@locale@std@@CAPAV_Locimp@12@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "private: static class std::locale::_Locimp * __cdecl std::locale::_Init(void)" (?_Init@locale@std@@CAPAV_Locimp@12@XZ) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2019: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호(참조 위치: "public: __thiscall std::locale::id::operator unsigned int(void)" (??Bid@locale@std@@QAEIXZ) 함수)에서 확인하지 못했습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2019: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호(참조 위치: "public: static unsigned int __cdecl std::ctype<char>::_Getcat(class std::locale::facet const * *,class std::locale const *)" (?_Getcat@?$ctype@D@std@@SAIPAPBVfacet@locale@2@PBV42@@Z) 함수)에서 확인하지 못했습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "private: static void __cdecl std::locale::facet::facet_Register(class std::locale::facet *)" (?facet_Register@facet@locale@std@@CAXPAV123@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(codingparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(parseunit_byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(picture_byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+libdirac_byteio.lib(displayparams_byteio.obj) : error LNK2001: "public: static void __cdecl std::_Locinfo::_Locinfo_ctor(class std::_Locinfo *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?_Locinfo_ctor@_Locinfo@std@@SAXPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) 외부 기호를 확인할 수 없습니다.
+../build/bin/Debug\DiracEncoder.dll : fatal error LNK1120: 15개의 확인할 수 없는 외부 참조입니다.

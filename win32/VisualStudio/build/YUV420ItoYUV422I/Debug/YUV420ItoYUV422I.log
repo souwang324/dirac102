@@ -1,0 +1,6 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  YUV420ItoYUV422I.cpp
+YUV420ItoYUV422I.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+libconv_common.lib(setstdiomode.obj) : error LNK2038: 'RuntimeLibrary'에 대해 불일치가 검색되었습니다. 'MTd_StaticDebug' 값이 'MDd_DynamicDebug'(YUV420ItoYUV422I.obj에 위치) 값과 일치하지 않습니다.
+LINK : warning LNK4098: 'LIBCMTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+../../build/utils/conversion/Debug\YUV420ItoYUV422I.exe : fatal error LNK1319: 1개의 불일치가 검색되었습니다.

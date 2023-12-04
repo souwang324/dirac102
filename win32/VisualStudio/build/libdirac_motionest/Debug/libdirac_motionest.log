@@ -1,0 +1,53 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  pixel_match.cpp
+  me_utils_mmx.cpp
+  me_utils.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(279): warning C4244: '=': 'dirac::CalcValueType'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(690): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(854): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(914): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(1045): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(1409): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(1519): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(1570): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\libdirac_motionest\me_utils.cpp(1574): warning C4838: 'T'에서 'const dirac::ValueType'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=int
+          ]
+  me_subpel.cpp
+  me_mode_decn.cpp
+  downconvert_mmx.cpp
+  downconvert.cpp
+  block_match.cpp
+  코드를 생성하고 있습니다...
+downconvert_mmx.obj : warning LNK4221: 이 개체 파일은 이전에 정의되지 않은 공용 기호를 정의하지 않으므로 이 라이브러리를 사용하는 어떠한 링크 작업에도 사용되지 않습니다.
+  libdirac_motionest.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\libdirac_motionest\../build/libdirac_motionest/Debug\libdirac_motionest.lib

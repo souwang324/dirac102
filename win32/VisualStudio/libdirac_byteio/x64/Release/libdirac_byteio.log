@@ -1,0 +1,16 @@
+﻿  accessunit_byteio.cpp
+  byteio.cpp
+  codingparams_byteio.cpp
+  dirac_byte_stream.cpp
+  displayparams_byteio.cpp
+  endofsequence_byteio.cpp
+  parseparams_byteio.cpp
+  parseunit_byteio.cpp
+  picture_byteio.cpp
+  component_byteio.cpp
+  dirac_byte_stats.cpp
+  mvdataelement_byteio.cpp
+  mvdata_byteio.cpp
+  subband_byteio.cpp
+  transform_byteio.cpp
+  libdirac_byteio.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\x64\Release\libdirac_byteio.lib

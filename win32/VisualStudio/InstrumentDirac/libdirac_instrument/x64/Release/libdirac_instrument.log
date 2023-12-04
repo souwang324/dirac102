@@ -1,0 +1,17 @@
+﻿  draw_overlay.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\instrumentation\libdirac_instrument\draw_overlay.cpp(65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\instrumentation\libdirac_instrument\draw_overlay.cpp(71): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\instrumentation\libdirac_instrument\draw_overlay.cpp(77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\instrumentation\libdirac_instrument\draw_overlay.cpp(83): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\instrumentation\libdirac_instrument\draw_overlay.cpp(89): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gm_inliers.cpp
+  motion_arrows.cpp
+  motion_colour.cpp
+  motion_colour_arrows.cpp
+  overlay.cpp
+  overlay_symbols.cpp
+  pred_mode.cpp
+  sad.cpp
+  split_mode.cpp
+  코드를 생성하고 있습니다...
+  libdirac_instrument.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\x64\Release\libdirac_instrument.lib

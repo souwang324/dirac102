@@ -1,0 +1,6 @@
+﻿  YUV420Down2x2.cpp
+d:\projects\01_ref\23_dirac\dirac102\dirac102_20210326\util\conversion\yuv420down2x2.cpp(81): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  YUV420Down2x2.vcxproj -> D:\projects\01_Ref\23_DIRAC\dirac102\dirac102_20210326\win32\VisualStudio\x64\Release\YUV420Down2x2.exe

@@ -1,0 +1,18 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  split_mode.cpp
+  sad.cpp
+  pred_mode.cpp
+  overlay_symbols.cpp
+  overlay.cpp
+  motion_colour_arrows.cpp
+  motion_colour.cpp
+  motion_arrows.cpp
+  gm_inliers.cpp
+  draw_overlay.cpp
+f:\ssd\07_projects\23_dirac\dirac102\dirac102_20151002\util\instrumentation\libdirac_instrument\draw_overlay.cpp(65): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\ssd\07_projects\23_dirac\dirac102\dirac102_20151002\util\instrumentation\libdirac_instrument\draw_overlay.cpp(71): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\ssd\07_projects\23_dirac\dirac102\dirac102_20151002\util\instrumentation\libdirac_instrument\draw_overlay.cpp(77): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\ssd\07_projects\23_dirac\dirac102\dirac102_20151002\util\instrumentation\libdirac_instrument\draw_overlay.cpp(83): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+f:\ssd\07_projects\23_dirac\dirac102\dirac102_20151002\util\instrumentation\libdirac_instrument\draw_overlay.cpp(89): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  libdirac_instrument.vcxproj -> F:\SSD\07_Projects\23_DIRAC\dirac102\dirac102_20151002\win32\VisualStudio\InstrumentDirac\libdirac_instrument\../../build/libdirac_instrument/Debug\libdirac_instrument.lib
